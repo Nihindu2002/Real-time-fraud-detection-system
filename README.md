@@ -26,8 +26,9 @@ Version Control: Git, GitHub
 
 1. get the code from the repository
 
-https://github.com/Nihindu2002/Real-time-fraud-detection-system
-
+```text
+git clone https://github.com/Nihindu2002/Real-time-fraud-detection-system
+```
 2. [download the dataset](https://www.kaggle.com/datasets/amanalisiddiqui/fraud-detection-dataset?resource=download) that will be used to train a transaction classifier. Unzip it and put the content (AIML Dataset.csv) under data folder 
 
 3. install required python packages if previously not installed
