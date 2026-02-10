@@ -1,11 +1,11 @@
 # Real-time-fraud-detection-system
 
-📌 Overview
+## 📌 Overview
 
 This project is an end-to-end real-time fraud detection system that identifies and flags suspicious transactions instantly using machine learning.
 It simulates live transaction streams, applies feature engineering, handles extreme class imbalance, and returns real-time notifications via dashbaord
 
-🚀 Tech Stack
+## 🚀 Tech Stack
 
 Programming: Python
 
@@ -22,7 +22,7 @@ Model Persistence: Joblib
 Version Control: Git, GitHub
 
 
-# Getting started
+## Getting started
 
 1. get the code from the repository
 
@@ -35,4 +35,12 @@ git clone https://github.com/Nihindu2002/Real-time-fraud-detection-system
 
 4. Run dashboard using "streamlit run fraud_detection.py"
 
+
+## 📊 Results
+
+- High recall for fraud detection
+
+- Stable real-time predictions
+
+- Low false negatives (critical for fraud systems)
 
